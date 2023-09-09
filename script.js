@@ -20,15 +20,15 @@
 // var bulb = document.querySelector("#bulb");
 // var btn = document.querySelector("button");
 
-// var flag = 10;
+// var flag = 0;
 
 // btn.addEventListener("click",function(){
-//     if(flag==10){
+//     if(flag==0){
 //         bulb.style.backgroundColor = "yellow"
 //         flag=1
 //     }else{
 //          bulb.style.backgroundColor = "#ffff"
-//     flag=10
+//     flag=0
 
 //     }  
 // })
