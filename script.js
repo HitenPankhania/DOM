@@ -9,26 +9,26 @@
 
 // // c.Changing CSS
 // var a = document.querySelector("h1");
-// a.style.color="blue"
+// a.style.color="yellow"
 
 // // d.EventListner
 // var a = document.querySelector("h1");
 // a.addEventListener("click",function(){
-//     console.log("bye");
+//     console.log("Welcome");
 // })
 
 // var bulb = document.querySelector("#bulb");
 // var btn = document.querySelector("button");
 
-// var flag = 0;
+// var flag = 10;
 
 // btn.addEventListener("click",function(){
-//     if(flag==0){
+//     if(flag==10){
 //         bulb.style.backgroundColor = "yellow"
 //         flag=1
 //     }else{
 //          bulb.style.backgroundColor = "#ffff"
-//     flag=0
+//     flag=10
 
 //     }  
 // })
