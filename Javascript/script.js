@@ -40,3 +40,17 @@
   
 // // Creating Function Expression Using Parentheses.
 // (function() { return "GeeksforGeeks"; });
+
+//Example of IIFE(Immidiately invoked Function Expression )
+// var ans = (function(){
+//     var private = 12;
+
+//     return{
+//         getter: function(){
+//             console.log(private);
+//         },
+//         setter: function(val){
+//             private = val;
+//         }
+//     }
+// })()
